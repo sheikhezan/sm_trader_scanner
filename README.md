@@ -1,6 +1,6 @@
 # flutter_qr_sanner
 
-A new Flutter project.
+Working on it!
 
 ## Getting Started
 
